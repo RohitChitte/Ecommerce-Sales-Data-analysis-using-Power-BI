@@ -24,3 +24,5 @@ Consit of actual Dashboard file that consist of Report and Data loaded from sour
 
 ### Image Files
 Dashboard background and project Screenshot
+
+![Power BI project SS](https://user-images.githubusercontent.com/75978611/233042289-313991b7-4d31-4f49-875f-8e4758e557bd.jpg)
